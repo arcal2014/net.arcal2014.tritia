@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tritia:tritia"
+  },
+  "result": "tritia:tritia_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

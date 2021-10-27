@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tritia:tritia"
+    },
+    {
+      "item": "tritia:mortar_and_pestle"
+    }
+  ],
+  "result": {
+    "item": "tritia:tritia_dust",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tritia:tritia_ingot"
+    }
+  ],
+  "result": {
+    "item": "tritia:tritia_nugget",
+    "count": 9
+  }
+}

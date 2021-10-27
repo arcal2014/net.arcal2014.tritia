@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "net.marcal2015.tritia.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "shutupexperimentalsettings.refmap.json",
+  "mixins": [
+    "net.arcal2014.tritia.mixin.client.TritiaServerWorldInfo"
+  ],
+  "client": [
+    "client.ServerWorldInfo"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
